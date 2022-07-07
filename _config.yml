@@ -3,3 +3,13 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Kevin Oulevey - maker
 description: A blog where I share my experiments with IoT, electronics and all sorts of things
+lsi: false
+safe: true
+source: oulevey.github.io
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
